@@ -1,0 +1,3 @@
+Sitemap: https://mx.tuxsoul.com/sitemap.xml
+
+User-agent: *
